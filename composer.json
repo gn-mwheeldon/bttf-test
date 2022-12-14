@@ -1,6 +1,6 @@
 {
     "name": "martymcfly/back-to-the-future-quotes",
-    "description": "Create random Back to the Furture quotes.",
+    "description": "Create random Back to the Future quotes.",
     "type": "library",
     "license": "MIT",
     "authors": [

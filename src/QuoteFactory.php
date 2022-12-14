@@ -29,6 +29,7 @@ class QuoteFactory
      */
     public function getRandomQuote(): string
     {
-        return $this->quotes[rand(0, count($this->quotes)-1)];
+        return "Testing";
+//        return $this->quotes[rand(0, count($this->quotes)-1)];
     }
 }
