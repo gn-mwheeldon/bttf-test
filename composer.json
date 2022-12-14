@@ -1,0 +1,25 @@
+{
+    "name": "martymcfly/back-to-the-future-quotes",
+    "description": "Create random Back to the Furture quotes.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Martin Wheeldon",
+            "email": "martin.wheeldon@golfnow.co.uk"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "martymcfly\\BackToTheFutureQuotes\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "martymcfly\\BackToTheFutureQuotes\\Tests\\": "tests"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
