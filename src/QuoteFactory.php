@@ -11,7 +11,8 @@ class QuoteFactory
         "Why don't you make like a tree and get outta here?",
         "If my calculations are correct, when this baby hits 88 miles per hour, you're gonna see some serious s***.",
         "Roads? Where we’re going, we don’t need roads.",
-        "It’s your kids, Marty! Something’s gotta be done about your kids!"
+        "It’s your kids, Marty! Something’s gotta be done about your kids!",
+        "Who's vice president? Jerry Lewis?!"
     ];
 
     /**
